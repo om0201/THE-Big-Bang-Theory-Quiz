@@ -2,7 +2,7 @@
 
 My aim through this project is to learn **javascript** and **node.js**.
 
-## Genral Info
+## Genral Information
 I made this app for **neog.camp** assignment no 2 for which we had to make a *Command Line Interface(CLI) quiz app*.
 
 ## Technologies used
